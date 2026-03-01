@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.subscriptionplatform.subscription.SubscriptionServiceIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.41 s -- in com.subscriptionplatform.subscription.SubscriptionServiceIntegrationTest
