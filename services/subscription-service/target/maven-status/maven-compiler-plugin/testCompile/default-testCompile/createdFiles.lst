@@ -1,0 +1,3 @@
+com/subscriptionplatform/subscription/domain/SubscriptionStateMachineTest.class
+com/subscriptionplatform/subscription/SubscriptionServiceIntegrationTest.class
+com/subscriptionplatform/subscription/domain/SubscriptionTest.class
